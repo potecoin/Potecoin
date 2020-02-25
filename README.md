@@ -86,7 +86,6 @@ private network separated, so do also specify a custom `--datadir` flag.
 
 ```
 $ gptc --datadir=path/to/custom/data/folder --bootnodes=<bootnode-enode-url-from-above>
-```
 
 step 2: start up all validator nodes （see genesis.json for configurations of validators）
 
