@@ -31,9 +31,9 @@ Welcome! This guide is intended to get you running on the PTC testnet. To ensure
 
 | OS      | Windows, Mac, Linux                                 |
 |---------|----------------------------------------------|
-| CPU     | 4 Core (Intel(R) Xeon(R) CPU X5670 @2.93GHz) |
-| RAM     | 8G                                           |
-| Free HD | 500G                                         |
+| CPU     | 2 Cores or more                              | 
+| RAM     | 4G                                           |
+| Free Disk | 40G                                         |
 
 
 
