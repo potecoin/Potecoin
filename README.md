@@ -14,15 +14,15 @@ The PTC repository is based on go-ethereum which contains protocol changes to su
 
 ### Documentation Guide
 
-+ If you want to know more about PTC MINING , please check out ['Guide to MINING'](http://potecoin.org/)
++ If you want to know more about PTC MINING , please check out ['Guide to MINING'](http://gitbook.potecoin.org)
 
-+ If you want to know more about PTC WALLET, please check out ['Guide to BlockChain WALLET'](http://http://69.30.224.136:81)
++ If you want to know more about PTC WALLET, please check out ['Guide to BlockChain WALLET'](http://wallet.potecoin.org)
 
 
 ### 文档指引
 
-+ 如果你想了解 PTC 详细挖矿操作方法，请查看[《PTC 挖矿教程》] (http://potecoin.org/)
-+ 如果你想了解 PTC 网页钱包的操作方法，请查看[《PTC 网页钱包教程》] (http://http://69.30.224.136:81)
++ 如果你想了解 PTC 详细挖矿操作方法，请查看[《PTC 挖矿教程》] (http://gitbook.potecoin.org)
++ 如果你想了解 PTC 网页钱包的操作方法，请查看[《PTC 网页钱包教程》] (http://wallet.potecoin.org)
 
 
 ### Getting Started
